@@ -1,0 +1,10 @@
+{
+    "name": "nw-test",
+    "main": "views/main.html",
+    "version": "1.0",
+    "window": {
+        "min_width": 400,
+        "min_height": 400,
+        "icon": "assets/icon.png"
+    }
+}
